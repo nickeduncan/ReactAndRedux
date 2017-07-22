@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDOM form 'react-dom';
 
 // Create a new component. This component should produce
 // some HTML
